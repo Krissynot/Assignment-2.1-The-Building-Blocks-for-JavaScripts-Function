@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<!--Once again the language that the start button is going to be in-->
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title></title>
+</head>
+<body>
+  <button>Start</button>
+  <script src="Script.js"></script>
+</body>
+</html>
